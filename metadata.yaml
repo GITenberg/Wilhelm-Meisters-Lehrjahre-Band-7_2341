@@ -1,0 +1,29 @@
+_repo: Wilhelm-Meisters-Lehrjahre-Band-7_2341
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf:
+- Opera
+- DE Prosa
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2341'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcc 'PT'
+title: Wilhelm Meisters Lehrjahre — Band 7
+url: http://www.gutenberg.org/ebooks/2341
