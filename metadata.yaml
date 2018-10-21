@@ -1,5 +1,5 @@
 _repo: Wilhelm-Meisters-Lehrjahre-Band-7_2341
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Bildungsromans'
 - !lcc 'PT'
+- GITenberg
 title: Wilhelm Meisters Lehrjahre — Band 7
 url: http://www.gutenberg.org/ebooks/2341
